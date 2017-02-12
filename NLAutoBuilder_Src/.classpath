@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.contenttype_3.4.200.v20130326-1255.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.jobs_3.5.300.v20130429-1813.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.resources_3.8.101.v20130717-0806.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.9.100.v20131218-1515.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.preferences_3.5.100.v20130422-1538.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.core_3.9.2.v20140114-1555.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.9.1.v20140110-1610.jar"/>
+	<classpathentry kind="lib" path="lib/maven-2.2.1-uber.jar"/>
+	<classpathentry kind="lib" path="lib/maven-site-plugin-2.0-beta-7.jar"/>
+	<classpathentry kind="lib" path="lib/versions-maven-plugin-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/org.json-20130213.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-tools-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-20030203.000550.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
